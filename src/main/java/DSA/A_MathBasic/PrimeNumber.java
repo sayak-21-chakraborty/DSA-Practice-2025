@@ -1,4 +1,4 @@
-package dsa.A_basicMath;
+package DSA.A_basicMath;
 
 public class PrimeNumber {
     public static void main(String[] args) {

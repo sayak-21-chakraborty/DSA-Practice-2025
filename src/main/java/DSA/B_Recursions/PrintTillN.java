@@ -1,4 +1,4 @@
-package dsa.B_recursion;
+package DSA.B_recursion;
 
 public class PrintTillN {
     private static int count = 0;

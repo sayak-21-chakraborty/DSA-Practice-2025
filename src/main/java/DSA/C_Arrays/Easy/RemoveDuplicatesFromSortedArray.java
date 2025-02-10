@@ -1,6 +1,4 @@
-package dsa.C_Arrays.Easy;
-
-import java.sql.SQLOutput;
+package DSA.C_Arrays.Easy;
 
 public class RemoveDuplicatesFromSortedArray {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package dsa.C_Arrays.Easy;
+package DSA.C_Arrays.Easy;
 
 public class LargestInAnArray {
     public static void main(String[] args) {
